@@ -16,7 +16,7 @@ export default function About() {
       <div className="w-48">
         <video controls width="100%" className=" rounded-2xl">
           <source src={video} type="video/mp4" />
-          Sorry, your browser doesn't support embedded videos.
+          Sorry, your browser doesnt support embedded videos.
         </video>
       </div>
     </main>

@@ -40,7 +40,7 @@ export default function Faqpage() {
           <p>
             Si penyembuh memproyeksikan prana atau energi kehidupan pada
             penderita, dan demikian menyembuhkan penderita. Proses inilah apa
-            yang sering disebut dengan "Penyembuhan Ajaib" dicapai.
+            yang sering disebut dengan Penyembuhan Ajaib dicapai.
           </p>
         </div>
       </div>

@@ -10,7 +10,7 @@ export default function Testimoni() {
         <div className="max-w-2xl">
           <video controls width="100%" className=" rounded-2xl">
             <source src={video} type="video/mp4" />
-            Sorry, your browser doesn't support embedded videos.
+            Sorry, your browser doesnt support embedded videos.
           </video>
         </div>
       </div>
